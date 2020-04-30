@@ -18,7 +18,7 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "bootstrap-loader": "^3.0.4",
-    "jquery": "1.11.2",
+    "jquery": "3.5.0",
     "popper.js": "^1.16.1",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
